@@ -1,0 +1,9 @@
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\bin\Debug\netcoreapp3.1\VocabularyTrainer.Services.deps.json
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\bin\Debug\netcoreapp3.1\VocabularyTrainer.Services.dll
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\bin\Debug\netcoreapp3.1\VocabularyTrainer.Services.pdb
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\obj\Debug\netcoreapp3.1\VocabularyTrainer.Services.csprojAssemblyReference.cache
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\obj\Debug\netcoreapp3.1\VocabularyTrainer.Services.AssemblyInfoInputs.cache
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\obj\Debug\netcoreapp3.1\VocabularyTrainer.Services.AssemblyInfo.cs
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\obj\Debug\netcoreapp3.1\VocabularyTrainer.Services.csproj.CoreCompileInputs.cache
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\obj\Debug\netcoreapp3.1\VocabularyTrainer.Services.dll
+D:\Work\Projects\VocabularyTrainer\VocabularyTrainer.Services\obj\Debug\netcoreapp3.1\VocabularyTrainer.Services.pdb
